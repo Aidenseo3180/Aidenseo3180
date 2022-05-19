@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Solved.ac Aidenseo3180](http://mazassumnida.wtf/api/mini/generate_badge?boj=una)](https://solved.ac/una)
+
 <!--
 **Aidenseo3180/Aidenseo3180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
