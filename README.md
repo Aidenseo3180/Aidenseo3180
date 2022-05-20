@@ -8,4 +8,4 @@ Skills
 <img src="https://img.shields.io/badge/C++-61DAFB?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-f59e42?style=flat&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-427bf5?style=flat&logo=Python&logoColor=yellow"/>
 
 
-[![Solved.ac una](http://mazassumnida.wtf/api/generate_badge?boj=Aidenseo3180)](https://solved.ac/Aidenseo3180)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=una)](https://solved.ac/una)<br/>
