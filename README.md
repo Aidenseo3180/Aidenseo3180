@@ -6,9 +6,11 @@
 :hammer:Skills
 
 :snowman:Used as the main
-<img src="https://img.shields.io/badge/C++-61DAFB?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-f59e42?style=flat&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-427bf5?style=flat&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/C#-ebe534?style=flat&logo=C#&logoColor=black"/> 
+
+<img src="https://img.shields.io/badge/C++-61DAFB?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-f59e42?style=flat&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-427bf5?style=flat&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Csharp-ebe534?style=flat&logo=Csharp&logoColor=black"/> 
 
 :snowflake:Used at least once
+
 <img src="https://img.shields.io/badge/MySQL-7893f5?style=flat&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/Java-ed8f37?style=flat&logo=Java&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-a85f1b?style=flat&logo=HTML&logoColor=black"/> 
 
 <!--
