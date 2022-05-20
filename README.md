@@ -1,10 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=b893cf&height=200&section=header&text=Aiden%20Seo&fontSize=40&fontColor=ffffff)
 
+# Hello!:smiley:
+
 [![Aidenseo3180's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aidenseo3180&theme=swift&show_icons=true)](https://github.com/Aidenseo3180/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidenseo3180&layout=compact)](https://github.com/Aidenseo3180/github-readme-stats)
 
  # :hammer:Skills
 
- ### :high_brightness:Platform & Languages
+ ### :cloud:Platform & Languages
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -18,7 +20,7 @@
 ![Python](https://img.shields.io/badge/Python-427bf5.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-f28444.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-### :low_brightness:Tools
+### :ocean:Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
