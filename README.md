@@ -3,7 +3,7 @@
 [![Aidenseo3180's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aidenseo3180&theme=swift&show_icons=true)](https://github.com/Aidenseo3180/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidenseo3180&layout=compact)](https://github.com/Aidenseo3180/github-readme-stats)
 
-# :hammer:Skills
+ :hammer:Skills
 
 :snowman:Used as the main
 
@@ -11,7 +11,7 @@
 
 :snowflake:Used at least once
 
-<img src="https://img.shields.io/badge/MySQL-7893f5?style=flat&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/Java-ed8f37?style=flat&logo=Java&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-a85f1b?style=flat&logo=HTML&logoColor=black"/> 
+<img src="https://img.shields.io/badge/MySQL-7893f5?style=flat&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/Java-ed8f37?style=flat&logo=Java&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-a85f1b?style=flat&logo=HTML&logoColor=black"/> <img src="https://img.shields.io/badge/CSS-2860bf?style=flat&logo=CSS&logoColor=white"/> 
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=una)](https://solved.ac/una)<br/>
