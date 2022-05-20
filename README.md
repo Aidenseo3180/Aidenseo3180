@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=b893cf&height=200&section=header&text=Aiden%20Seo&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=48256b&height=200&section=header&text=Aiden%20Seo&fontSize=40&fontColor=ffffff)
 
 [![Aidenseo3180's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aidenseo3180&theme=swift&show_icons=true)](https://github.com/Aidenseo3180/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidenseo3180&layout=compact)](https://github.com/Aidenseo3180/github-readme-stats)
 
