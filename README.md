@@ -11,7 +11,7 @@
 
 :snowflake:Used at least once
 
-<img src="https://img.shields.io/badge/MySQL-7893f5?style=flat&logo=MYSQL&logoColor=black"/> <img src="https://img.shields.io/badge/JAVA-2867bf?style=flat&logo=JAVA&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-a85f1b?style=flat&logo=HTML&logoColor=black"/> <img src="https://img.shields.io/badge/CSS-2860bf?style=flat&logo=CSS&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MYSQL-7893f5?style=flat&logo=MYSQL&logoColor=black"/> <img src="https://img.shields.io/badge/JAVA-2867bf?style=flat&logo=JAVA&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-a85f1b?style=flat&logo=HTML&logoColor=black"/> <img src="https://img.shields.io/badge/CSS-2860bf?style=flat&logo=CSS&logoColor=white"/> 
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=una)](https://solved.ac/una)<br/>
