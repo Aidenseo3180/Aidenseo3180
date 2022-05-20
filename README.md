@@ -7,4 +7,7 @@ Hello
 [![Solved.ac Aidenseo3180](http://mazassumnida.wtf/api/mini/generate_badge?boj=una)](https://solved.ac/una)
 
 Skills
+
 <img src="https://img.shields.io/badge/C++-61DAFB?style=flat&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-f59e42?style=flat&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-427bf5?style=flat&logo=Python&logoColor=yellow"/>
