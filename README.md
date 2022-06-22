@@ -13,7 +13,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![CPP](https://img.shields.io/badge/C++-ebe846.svg?&style=for-the-badge&logo=C++&logoColor=black)
 ![C](https://img.shields.io/badge/C-454547.svg?&style=for-the-badge&logo=C&logoColor=white)
-![CSharp](https://img.shields.io/badge/CSharp-ebe534.svg?&style=for-the-badge&logo=CSharp&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-ebe534.svg?&style=for-the-badge&logo=CSharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-427bf5.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-f28444.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-239ab8.svg?&style=for-the-badge&logo=VHDL&logoColor=yellow)
