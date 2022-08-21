@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-427bf5.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-f28444.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-239ab8.svg?&style=for-the-badge&logo=VHDL&logoColor=yellow)
-![SQL](https://img.shields.io/badge/SQL-1D7EB5.svg?&style=for-the-badge&logo=SQL&logoColor=white)
+![SQL](https://img.shields.io/badge/MYSQL-1D7EB5.svg?&style=for-the-badge&logo=MYSQL&logoColor=white)
 
 ### :ocean:Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
