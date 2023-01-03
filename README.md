@@ -1,9 +1,8 @@
 ### Hi There :snowman::christmas_tree:
 
 [![Aidenseo3180's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aidenseo3180&theme=swift&show_icons=true)](https://github.com/Aidenseo3180/github-readme-stats) 
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidenseo3180&layout=compact)](https://github.com/Aidenseo3180/github-readme-stats) -->
-
-
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=una)](https://solved.ac/una)<br/>
