@@ -1,6 +1,9 @@
 ### Hi There :snowman::christmas_tree:
 
-[![Aidenseo3180's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aidenseo3180&theme=swift&show_icons=true)](https://github.com/Aidenseo3180/github-readme-stats) 
+<!--[![Aidenseo3180's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aidenseo3180&theme=swift&show_icons=true)](https://github.com/Aidenseo3180/github-readme-stats) -->
+
+![Aidenseo3180's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Aidenseo3180)
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidenseo3180&layout=compact)](https://github.com/Aidenseo3180/github-readme-stats) -->
 
