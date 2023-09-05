@@ -12,7 +12,7 @@ private:
   int age = 21;
   std::string major = "Computer Engineering";
   std::string college = "University Of Pittsburgh";
-  std::string interest[] = {"Software Engineering", "Embedded System"};
+  std::string interest[3] = {"Software Engineering", "Embedded System", "Game Development"};
 };
 ```
 
